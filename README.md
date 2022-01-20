@@ -1,6 +1,6 @@
 # About This Repository
 
-This repository belongs to my "React Router v6 Upgrade Guide" YouTube [video](...).
+This repository belongs to Max's "React Router v6 Upgrade Guide" YouTube [video](...).
 
 You can also learn all about React (incl. React Router) in my ["React - The Complete Guide" course](https://acad.link/reactjs).
 
